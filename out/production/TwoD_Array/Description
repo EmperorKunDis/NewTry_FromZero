@@ -22,7 +22,8 @@ herkömmliche "for"-Schleife. Es ist jedoch wichtig zu beachten, dass sie wenige
 For Each Loop CZ:
 V tomto videu vám vysvětlím cyklus "for-each", také známý jako rozšířený cyklus "for". Jedná se o techniku průchodu,
 která umožňuje projít všemi prvkami v poli nebo jiné kolekci. Jednou z výhod je, že cyklus "for-each" vyžaduje méně
-kroků a je čitelnější než běžný cyklus "for". Je však důležité poznamenat, že je méně flexibilní než běžný cyklus "for".
+kroků a je čitelnější než běžný cyklus "for". Je však důležité poznamenat, že je méně flexibilní než běžný cyklus
+"for".
 _____________________________________________________________________________________________________________________
 Methods EN:
 A method is a block of code that is executed whenever it is called.
@@ -49,3 +50,19 @@ Přetížené metody nebo přetížené funkce jsou metody, které mají stejný
 protože každá metoda potřebuje vlastní jedinečnou signaturu metody, která se skládá z názvu metody a jejích parametrů.
 Mohou sice sdílet stejný název, ale musí mít různé parametry, aby každá z nich měla jedinečnou signaturu metody.
 _____________________________________________________________________________________________________________________
+Java printf EN:
+An optional method for controlling, formatting, and displaying text in the console window two
+arguments = format string + (object/variable/
+value) % [flags] [precision] [width] [conversion-sign].
+
+Java printf DE:
+Eine optionale Methode zum Steuern, Formatieren und Anzeigen von Text im Konsolenfenster
+zwei Argumente = Formatzeichenfolge + (Objekt/Variable/
+Wert) % [Flags] [Präzision] [Breite] [Konvertierungszeichen].
+
+Java printf CZ:
+Volitelná metoda pro ovládání, formátování a zobrazení textu v okně konzoly dva
+argumenty = formátovací řetězec + (objekt/proměnná/
+hodnota) % [příznaky] [přesnost] [šířka] [konverzní-znak].
+_____________________________________________________________________________________________________________________
+
