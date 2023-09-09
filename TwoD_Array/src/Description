@@ -32,3 +32,20 @@ Eine Methode ist ein Codeblock, der immer dann ausgeführt wird, wenn er aufgeru
 
 Metoda CZ:
 Metoda je blok kódu, který se provede vždy, když je zavolán.
+_____________________________________________________________________________________________________________________
+Overloaded Methods EN:
+Overloaded methods, or overloaded functions, are methods that share the same name but have different parameters.
+This is allowed because each method needs its own unique method signature, which consists of the method's name plus
+its parameters. While they can share the same name, they must have different parameters to provide each of them with
+a unique method signature.
+
+Overloaded Methods DE:Überladene Methoden oder überladene Funktionen sind Methoden, die denselben Namen, aber
+unterschiedliche Parameter haben. Dies ist zulässig, weil jede Methode ihre eigene eindeutige Methodensignatur benötigt,
+die aus dem Namen der Methode und ihren Parametern besteht. Sie können zwar denselben Namen haben, müssen aber
+unterschiedliche Parameter haben, damit jede von ihnen eine eindeutige Methodensignatur hat.
+
+Overloaded Methods CZ:
+Přetížené metody nebo přetížené funkce jsou metody, které mají stejný název, ale mají různé parametry. To je povoleno,
+protože každá metoda potřebuje vlastní jedinečnou signaturu metody, která se skládá z názvu metody a jejích parametrů.
+Mohou sice sdílet stejný název, ale musí mít různé parametry, aby každá z nich měla jedinečnou signaturu metody.
+_____________________________________________________________________________________________________________________
