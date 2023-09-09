@@ -1,0 +1,20 @@
+
+_____________________________________________________________________________________________________________________
+For Each Loop EN:
+In this video, I'm going to explain the for-each loop, also known as an enhanced for loop.
+This is a traversing technique to iterate through all the elements in an array or other collection.
+One of the benefits is that a for-each loop takes fewer steps and is more readable than a standard for loop. However,
+it's important to note that it is less flexible than a standard for loop.
+
+For Each Loop DE:
+In diesem Video werde ich die sogenannte "for-each"-Schleife, auch als erweiterte "for"-Schleife bekannt, erklären.
+Dies ist eine Durchlauftechnik, um alle Elemente in einem Array oder einer anderen Sammlung zu durchlaufen.
+Einer der Vorteile besteht darin, dass eine "for-each"-Schleife weniger Schritte benötigt und lesbarer ist als eine
+herkömmliche "for"-Schleife. Es ist jedoch wichtig zu beachten, dass sie weniger flexibel ist als eine herkömmliche
+"for"-Schleife.
+
+For Each Loop CZ:
+V tomto videu vám vysvětlím cyklus "for-each", také známý jako rozšířený cyklus "for". Jedná se o techniku průchodu,
+která umožňuje projít všemi prvkami v poli nebo jiné kolekci. Jednou z výhod je, že cyklus "for-each" vyžaduje méně
+kroků a je čitelnější než běžný cyklus "for". Je však důležité poznamenat, že je méně flexibilní než běžný cyklus "for".
+_____________________________________________________________________________________________________________________
