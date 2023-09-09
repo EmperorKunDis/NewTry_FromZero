@@ -24,3 +24,11 @@ V tomto videu vám vysvětlím cyklus "for-each", také známý jako rozšířen
 která umožňuje projít všemi prvkami v poli nebo jiné kolekci. Jednou z výhod je, že cyklus "for-each" vyžaduje méně
 kroků a je čitelnější než běžný cyklus "for". Je však důležité poznamenat, že je méně flexibilní než běžný cyklus "for".
 _____________________________________________________________________________________________________________________
+Methods EN:
+A method is a block of code that is executed whenever it is called.
+
+Methods DE:
+Eine Methode ist ein Codeblock, der immer dann ausgeführt wird, wenn er aufgerufen wird.
+
+Metoda CZ:
+Metoda je blok kódu, který se provede vždy, když je zavolán.
