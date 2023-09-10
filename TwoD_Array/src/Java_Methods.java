@@ -5,6 +5,9 @@ public class Java_Methods {
         String wordend = "ther";
         int FingersLeft = 5;
         int FingersRight = 6;
+
+        System.out.println();
+
         int age = 32;
         int height = 186;
 
@@ -14,7 +17,7 @@ public class Java_Methods {
 
         int j = add(FingersLeft,FingersRight);
         double u;
-        u = inteligence(age,height);
+        u = inteligence(height,age);
         String o = Uare(u);
 
         System.out.println("You have "+j+" fingers.");
@@ -37,7 +40,7 @@ public class Java_Methods {
      }
 
      static double inteligence(int h,int j) {
-        double IQ = h * (j/100);
+        double IQ = ( h * ( 100/ (double) j) ) /5 ;
         return IQ;
      }
 
